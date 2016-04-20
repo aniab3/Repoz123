@@ -4,5 +4,6 @@
 int mian()
 {
 printf("Hello world");
+printf("zmiana");
 return 0;
 }
