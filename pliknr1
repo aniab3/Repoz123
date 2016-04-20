@@ -1,0 +1,8 @@
+#include<iostream>
+
+
+int mian()
+{
+printf("Hello world");
+return 0;
+}
