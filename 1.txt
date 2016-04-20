@@ -1,4 +1,4 @@
-struct osoba {111111111111
+struct osoba {11111111111155555555
     string imie;
     string nazwisko;
     double wzrost;	
