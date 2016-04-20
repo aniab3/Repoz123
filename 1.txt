@@ -21,4 +21,6 @@ struct lista {
  
 lista::lista() {
     pierwsza = 0;       // konstruktor
-}
+}f,ldjshfd;ksjughfd;agkjdha;kgfjdhag.kjdfaghdzfkjghdf.akjhd
+gfadgfjk'dhfagdafgju'dflakgjADgdf
+gldkfhg'daflgkijd
