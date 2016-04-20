@@ -1,6 +1,7 @@
 struct osoba {
     string imie;
     string nazwisko;
+    double wzrost;	
     int wiek;
     osoba *nastepna;    // wskaŸnik na nastêpny element
     osoba();            // konstruktor
