@@ -1,5 +1,5 @@
 struct osoba {
-    string imie;
+    string imie;222222222
     string nazwisko;
     double wzrost;	
     int wiek;
