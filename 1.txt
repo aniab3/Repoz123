@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 struct osoba {11111111111155555555
     string imie;
+=======
+struct osoba {
+    string imie;222222222
+>>>>>>> 5d4af74b7287fe5fa66e957b1dc03da4e2611a9c
     string nazwisko;
     double wzrost;	
     int wiek;
